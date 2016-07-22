@@ -1,6 +1,6 @@
 # Group Songs by Artist 
 This is a python(2.7) script which:
-  - identifies the artist of a  video song
+  - identifies the artist of a  video song from youtube
   - places the video songs with same artist in same folder
 
 ### Requirements
